@@ -1,10 +1,9 @@
 # DESKTOP-INTEGRATED-VIRTUAL-ASSISTANT
-DIVA IS BASED ON ARITIFICIAL INTELLIGENECE WHICH CAN PERFORM MULITPLE TASKS AS ORDERED BY THE USER.
+DIVA IS BASED ON ARITIFICIAL INTELLIGENCE  WHICH CAN PERFORM MULITPLE TASKS AS ORDERED BY THE USER.
 
 
 
-![image](https://user-images.githubusercontent.com/85027477/180720146-06df85f5-a8ea-42e8-b27b-2896638a8885.png)
-
+![image](https://user-images.githubusercontent.com/85027477/198677361-bbbe1999-9d4d-46bc-b0c2-e7d4999a3b8b.png)
 AI:
 
 In the simplest terms, AI which stands for artificial intelligence refers to systems or machines that mimic human intelligence to perform tasks and can iteratively improve themselves based on the information they collect. AI manifests in a number of forms. A few examples are:
