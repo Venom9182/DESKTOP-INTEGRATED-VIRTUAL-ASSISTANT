@@ -3,10 +3,9 @@ DIVA is an AI-based desktop assistant designed to seamlessly execute a variety o
 
 Features:
 
-Conversational interface for effortless interaction.
-Multi-functional capabilities including music playback, Wikipedia queries, YouTube streaming, and email sending.
-Built using Python for flexibility and ease of development.
-Tech Stack: Python
+- Conversational interface for effortless interaction.
+- Multi-functional capabilities including music playback, Wikipedia queries, YouTube streaming, and email sending.
+- Built using Python for flexibility and ease of development.
 
 
 ![image](https://user-images.githubusercontent.com/85027477/198677361-bbbe1999-9d4d-46bc-b0c2-e7d4999a3b8b.png)
